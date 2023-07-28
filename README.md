@@ -5,5 +5,5 @@ Um simples jogo desenvolvido como atividade avaliativa para a disciplina de Prog
 <h3>Status: ✔Concluído</h3>
 
 <div>
-  <h3>📌Confira o resultado <a href="quadribol-game.netlify.app">Aqui </a></h3>
+  <h3>📌Confira o resultado <a href="https://quadribol-game.netlify.app/">Aqui </a></h3>
 </div>
